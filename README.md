@@ -23,3 +23,6 @@ The models were subjected to two sets of benchmarks—Logical and Coding—to te
 This report begins with an analysis of the logical reasoning benchmarks, offering insights into each model's performance, strengths, and areas for improvement. Subsequently, the coding benchmarks are examined, shedding light on how well these models can handle programming tasks. The results are graphed for visual representation, and a critical discussion synthesizes these findings, providing a comparative view of the current AI landscape based on the models' performances.
 
 Through this examination, we seek not only to understand where each model stands in terms of logical and coding capabilities but also to project future directions for AI development based on the observed strengths and limitations. 
+
+**Results**
+https://deepnote.com/@abc-843d/AI-Benchmarks-ae19c5a2-116d-4249-b9b4-ddb141b21c99
