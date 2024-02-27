@@ -68,4 +68,4 @@ GPT 4 turbo 0125: 3, 3, 3
 GPT 3.5 Turbo 0125 : error, 3, 3
 Gemini Ultra (Gemini WebUI): error, 3, 3
 Mixtral 8x7b instruct (Hugging Chat): 3, 3, 3
-Mistral Large (Via Le Chat):
+Mistral Large (Via Le Chat): 3, 3, 3
