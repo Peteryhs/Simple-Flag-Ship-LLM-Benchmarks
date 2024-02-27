@@ -6,7 +6,7 @@ complete the next parttern 1, 11, 21, 1211, 11221
 
 GPT 4 turbo 0125: 100, not in london, 312211 3/3
 Mistral Large (Via Le Chat): 99 (Said 100 one time during 3 runs), not in london, 312211 2.3/3
-Mistral Next (Via Le Chat): 99, not in lodon, 312211 2/3
+Mistral Next (Via Le Chat): 99, not in london, 312211 2/3
 Mistral Small (Via Le Chat): 99, not in london, 311221  2/3
 GPT 3.5 turbo 0125: 99, london, 312211 2/3
 Gemini Ultra (Gemini WebUI): 99, not in london, 312211 2/3
