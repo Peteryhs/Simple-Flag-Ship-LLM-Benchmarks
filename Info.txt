@@ -2,7 +2,7 @@ Logical: Excuted serpratly 3/4
 
 if there is 100 killers in a room and I kill 1 how many are left?
 if a teniss ball is mailed from toronto to london in a gym bag which does not have a bottom, when the bag arrives, where is the ball?
-complete the next parttern 1, 11, 21, 1211, 11221
+complete the next parttern 1, 11, 21, 11211, 11221
 
 GPT 4 turbo 1106: 100, not in london, 312211 3/3
 Claude 3 Opus: 100, not in london, 312211 3/3
