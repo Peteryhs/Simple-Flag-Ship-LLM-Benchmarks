@@ -2,7 +2,7 @@ Logical: Excuted serpratly 3/4
 
 if there is 100 killers in a room and I kill 1 how many are left?
 if a teniss ball is mailed from toronto to london in a gym bag which does not have a bottom, when the bag arrives, where is the ball?
-complete the next parttern 1, 11, 21, 11211, 11221
+complete the next parttern 1, 11, 21, 11211, 111221
 
 GPT 4 turbo 1106: 100, not in london, 312211 3/3
 Claude 3 Opus: 100, not in london, 312211 3/3
@@ -13,6 +13,7 @@ Gemini 1.5 Pro: 99, london, 312211 1/3
 GPT 3.5 turbo 0125: 99, not in london, 312211 2/3
 Gemini Ultra (Gemini WebUI): 99, not in london, 312211 2/3
 Gemini Pro (Gemini WebUI): avoided, not london, 13112221 1/3
+Copilot Pro (GPT 4 Turbo Precise): 100, not in london, 312211 3/3
 Mixtral 8x7b instruct (Hugging Chat): got logic correctly 99, not london, 1122 1.5/3
 Dolphin Mixtral 8x7b: 99, london, 312211 1/3
 Nous Hermes 2 Mixtral 8x7b DPO: 109, london, 113311231211 0/3
