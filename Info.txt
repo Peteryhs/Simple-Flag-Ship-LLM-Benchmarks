@@ -1,15 +1,14 @@
-Logical: Excuted serpratly 3/4
+Logical:
 
 if there is 100 killers in a room and I kill 1 how many are left?
 if a teniss ball is mailed from toronto to london in a gym bag which does not have a bottom, when the bag arrives, where is the ball?
 complete the next parttern 1, 11, 21, 11211, 111221
-
 GPT 4 turbo 1106: 100, not in london, 312211 3/3
 Claude 3 Opus: 100, not in london, 312211 3/3
 Mistral Large (Via Le Chat): 99 (Said 100 one time during 3 runs), not in london, 312211 2.3/3
 Mistral Next (Via Le Chat): 99, not in london, 312211 2/3
 Mistral Small (Via Le Chat): 99, not in london, 31221  2/3
-Gemini 1.5 Pro: 99, london, 312211 1/3
+Gemini 1.5 Pro: 99, not in london, 312211 2/3
 GPT 3.5 turbo 0125: 99, not in london, 312211 2/3
 Gemini Ultra (Gemini WebUI): 99, not in london, 312211 2/3
 Gemini Pro (Gemini WebUI): avoided, not london, 13112221 1/3
@@ -21,7 +20,7 @@ Llama v2 70b: 99, not london, 112211 1/3
 Moonshot (English) : 99, not london, 1113021 1/3
 
 
-Coding: Excuted serpratly 2/24
+Coding:
 Code me a fully functional snake game in python. (Out of 3 Movement, Fet/get longer, die)
 Code me a html website which has a cetnered Hi and a spinning square above it (Out of 3 Displays required elements, Text alligment, Moving block)
 (Leet code) Write an aswner to this question: Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
@@ -70,7 +69,7 @@ It is guaranteed that s is a valid roman numeral in the range [1, 3999].
 
 GPT 4 turbo 0125: 3, 3, 3
 Claude 3 Opus: 3, 3, 3
-Gemini 1.5 Pro: error, 3, 3
+Gemini 1.5 Pro: 3, 3, 3
 GPT 3.5 Turbo 0125 : error, 3, 3
 Gemini Ultra (Gemini WebUI): error, 3, 3
 Mixtral 8x7b instruct (Hugging Chat): 3, 3, 3
