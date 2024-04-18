@@ -6,6 +6,7 @@ complete the next parttern 1, 11, 21, 11211, 111221
 
 GPT 4 turbo 1106: 100, not in london, 312211 3/3
 Claude 3 Opus: 100, not in london, 312211 3/3
+LLaMA 3 70b: 100, toronto, 312211 3/3
 Mistral Large (Via Le Chat): 99 (Said 100 one time during 3 runs), not in london, 312211 2.3/3
 Mistral Next (Via Le Chat): 99, not in london, 312211 2/3
 Mistral Small (Via Le Chat): 99, not in london, 31221  2/3
@@ -78,5 +79,6 @@ Gemini Ultra (Gemini WebUI): error, 3, 3
 Mixtral 8x7b instruct (Hugging Chat): 3, 3, 3
 Mistral Large (Via Le Chat): 3, 3, 3
 Mixtral 8x22: 3, 3, 3
+LLaMA 3 70b: 3, 3, 3 3/3
 Command R+: error, 3, 3
 Moonshot (Chinese) : 3, 3, 3
